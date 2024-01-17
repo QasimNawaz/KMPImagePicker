@@ -1,2 +1,1 @@
-# KMPImagePicker
-A Kotlin Multiplatform (KMP) Compose project facilitating seamless image selection from camera or gallery across both iOS and Android platforms with native implementations.
+In mobile app development, integrating features like capturing images using the device camera and picking images from the gallery are common requirements. Kotlin Multiplatform (KMP) with Jetpack Compose allows developers to create a shared codebase for Android and iOS platforms. In this article, we'll explore how to develop a KMP Compose project that enables users to capture or pick images while seamlessly handling permissions.
