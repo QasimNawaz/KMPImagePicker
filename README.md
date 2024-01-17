@@ -1,1 +1,3 @@
 In mobile app development, integrating features like capturing images using the device camera and picking images from the gallery are common requirements. Kotlin Multiplatform (KMP) with Jetpack Compose allows developers to create a shared codebase for Android and iOS platforms. In this article, we'll explore how to develop a KMP Compose project that enables users to capture or pick images while seamlessly handling permissions.
+
+Explore the in-depth details of the development in this repository by checking out my detailed Medium article [here](https://medium.com/@qasimnawaz_70901/kotlin-multiplatform-compose-unified-image-capture-and-gallery-picker-with-permission-handling-8a8f8cc9cc82)
