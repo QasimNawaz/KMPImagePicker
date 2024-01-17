@@ -1,3 +1,18 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tar
+*.gz
+*.bzip
+*.bz2
+*.7z
+*.xar
+
 # Gradle files
 .gradle/
 build/
@@ -21,6 +36,32 @@ output.json
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+
+# KMP-specific files
+.kt4a/
+.gradle/
+build/
+.idea/
+.idea_modules/
+.gradle.kts/
+*.kompose
+*.kompose-*
+
+# Exclude generated files
+/generated/
+
+# Thumbnails
+._*
+
+# JetBrains specific files
+*.log
+.idea/
+
+# Exclude metadata
+*.iml
+*.xml
+*.yml
+*.properties
 
 # Keystore files
 *.jks
