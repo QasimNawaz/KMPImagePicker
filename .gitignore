@@ -57,12 +57,6 @@ build/
 *.log
 .idea/
 
-# Exclude metadata
-*.iml
-*.xml
-*.yml
-*.properties
-
 # Keystore files
 *.jks
 *.keystore
